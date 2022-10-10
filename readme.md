@@ -40,9 +40,18 @@ git clone https://github.com/Harshal141/HacktoberFest2022-1.git
 
 ## Make necessary changes and commit those changes
 
-Now open `index.html` file in a text editor, add [the snippet](#enter-your-profile) to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Submit your frontend code in `/public/code/<Your_filename>`
 
-> note : Dont generate pull request with just putting profile in `index.html`
+Visit `/public/js/data.js` and enter your name and project folder name
+
+```js
+const data = {
+    "Your Name" : "<Your_filename>",
+    "Harshal141 " : "hp"
+}
+```
+
+> note : Dont generate pull request without putting [profile](#enter-your-profile) in `/contributors/index.html`
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
