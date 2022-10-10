@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
 
-*{
-  font-family: poppins;
-}
 .heading{
-    font-family: roboto;
-    font-weight: 600;
-    color: #183153;
+    /* font-family: roboto; */
+    font-family: "poppins", sans-serif;
+    font-weight: 500;
+    color: #012970;
 }
 
 /*--------------------------------------------------------------
@@ -54,12 +52,6 @@
   /*--------------------------------------------------------------
 # Search
 --------------------------------------------------------------*/
-
-.heading{
-    font-family: roboto;
-    font-weight: 600;
-    color: #183153;
-}
 .search_box{
     display:flex; 
     flex-direction: row; 
