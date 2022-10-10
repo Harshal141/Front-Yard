@@ -1,3 +1,5 @@
+// add value in spec now created
+
 let drop = document.querySelector('select')
 for(let key in data){
     drop.innerHTML += `<option value="${key}">${key}</option>`
