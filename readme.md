@@ -1,6 +1,6 @@
 <div align="center">
 <h1> HacktoberFest2022</h1>
-<p>Steps to add Contribution</p>
+<p>https://front-yard.herokuapp.com/</p>
 <a href="https://github.com/Harshal141/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AIT-OSS-Club;Hacktoberfest-Accepted;Aitians;Open-Source&center=true&width=500&height=50"></a>
 </div>
 

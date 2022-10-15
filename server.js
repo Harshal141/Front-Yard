@@ -4,6 +4,9 @@ const port = process.env.PORT || 3000
 
 
 app.use('/', express.static("public"))
+app.use('/chart',express.static("public"))
+app.use('/navbar',express.static("public"))
+
 app.use('/con',express.static("contributors"))
 
 app.listen(port, () => {
